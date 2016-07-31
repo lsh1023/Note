@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\myapp\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cell.xml",
+        "source": "D:\\myapp\\Notes\\app\\src\\main\\res\\layout\\cell.xml"
+    },
+    {
+        "merged": "D:\\myapp\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\myapp\\Notes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myapp\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select.xml",
+        "source": "D:\\myapp\\Notes\\app\\src\\main\\res\\layout\\select.xml"
+    },
+    {
+        "merged": "D:\\myapp\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addcontent.xml",
+        "source": "D:\\myapp\\Notes\\app\\src\\main\\res\\layout\\addcontent.xml"
+    }
+]

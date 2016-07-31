@@ -1,0 +1,2 @@
+CHANGED,D:\myapp\Notes\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lsh\notes\AddContent$override.class
+CHANGED,D:\myapp\Notes\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
